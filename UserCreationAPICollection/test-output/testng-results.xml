@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-12T18:53:42 NZST" name="Suite" finished-at="2020-09-12T18:53:51 NZST" duration-ms="8771">
+    <groups>
+    </groups>
+    <test started-at="2020-09-12T18:53:42 NZST" name="Test" finished-at="2020-09-12T18:53:51 NZST" duration-ms="8771">
+      <class name="testcase.TC_RequestResposne">
+        <test-method signature="DeleteUserByID()[pri:0, instance:testcase.TC_RequestResposne@47542153]" started-at="2020-09-12T18:53:42 NZST" name="DeleteUserByID" finished-at="2020-09-12T18:53:47 NZST" duration-ms="4904" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteUserByID -->
+        <test-method signature="GetAllUsers()[pri:0, instance:testcase.TC_RequestResposne@47542153]" started-at="2020-09-12T18:53:47 NZST" name="GetAllUsers" finished-at="2020-09-12T18:53:47 NZST" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsers -->
+        <test-method signature="GetUserByID()[pri:0, instance:testcase.TC_RequestResposne@47542153]" started-at="2020-09-12T18:53:47 NZST" name="GetUserByID" finished-at="2020-09-12T18:53:49 NZST" duration-ms="1253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetUserByID -->
+        <test-method signature="PostSingleUser()[pri:0, instance:testcase.TC_RequestResposne@47542153]" started-at="2020-09-12T18:53:49 NZST" name="PostSingleUser" finished-at="2020-09-12T18:53:50 NZST" duration-ms="1446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostSingleUser -->
+        <test-method signature="PutUserByID()[pri:0, instance:testcase.TC_RequestResposne@47542153]" started-at="2020-09-12T18:53:50 NZST" name="PutUserByID" finished-at="2020-09-12T18:53:51 NZST" duration-ms="839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PutUserByID -->
+      </class> <!-- testcase.TC_RequestResposne -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
